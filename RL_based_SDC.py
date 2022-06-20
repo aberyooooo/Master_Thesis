@@ -16,6 +16,8 @@ import matplotlib.pyplot as plt
 
 
 
+
+
 class Car:
     """
     自動車の状態を表すクラス
